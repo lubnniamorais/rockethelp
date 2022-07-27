@@ -29,6 +29,7 @@
       "prettier/prettier": "error",
       "react/no-unstable-nested-components": "off",
       "react/jsx-no-bind": "off",
+      "consistent-return": "off",
       "import/prefer-default-export": "off",
       "react-hooks/rules-of-hooks": "error",
       "react-hooks/exhaustive-deps": "warn",
